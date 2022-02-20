@@ -1,0 +1,364 @@
+0	
+name	"Anarcho-Communism"
+stats	
+econ	100
+dipl	50
+govt	100
+scty	90
+1	
+name	"Libertarian Communism"
+stats	
+econ	100
+dipl	70
+govt	80
+scty	80
+2	
+name	"Trotskyism"
+stats	
+econ	100
+dipl	100
+govt	60
+scty	80
+3	
+name	"Marxism"
+stats	
+econ	100
+dipl	70
+govt	40
+scty	80
+4	
+name	"De Leonism"
+stats	
+econ	100
+dipl	30
+govt	30
+scty	80
+5	
+name	"Leninism"
+stats	
+econ	100
+dipl	40
+govt	20
+scty	70
+6	
+name	"Stalinism/Maoism"
+stats	
+econ	100
+dipl	20
+govt	0
+scty	60
+7	
+name	"Religious Communism"
+stats	
+econ	100
+dipl	50
+govt	30
+scty	30
+8	
+name	"State Socialism"
+stats	
+econ	80
+dipl	30
+govt	30
+scty	70
+9	
+name	"Theocratic Socialism"
+stats	
+econ	80
+dipl	50
+govt	30
+scty	20
+10	
+name	"Religious Socialism"
+stats	
+econ	80
+dipl	50
+govt	70
+scty	20
+11	
+name	"Democratic Socialism"
+stats	
+econ	80
+dipl	50
+govt	50
+scty	80
+12	
+name	"Revolutionary Socialism"
+stats	
+econ	80
+dipl	20
+govt	50
+scty	70
+13	
+name	"Libertarian Socialism"
+stats	
+econ	80
+dipl	80
+govt	80
+scty	80
+14	
+name	"Anarcho-Syndicalism"
+stats	
+econ	80
+dipl	50
+govt	100
+scty	80
+15	
+name	"Left-Wing Populism"
+stats	
+econ	60
+dipl	40
+govt	30
+scty	70
+16	
+name	"Theocratic Distributism"
+stats	
+econ	60
+dipl	40
+govt	30
+scty	20
+17	
+name	"Distributism"
+stats	
+econ	60
+dipl	50
+govt	50
+scty	20
+18	
+name	"Social Liberalism"
+stats	
+econ	60
+dipl	60
+govt	60
+scty	80
+19	
+name	"Christian Democracy"
+stats	
+econ	60
+dipl	60
+govt	50
+scty	30
+20	
+name	"Social Democracy"
+stats	
+econ	60
+dipl	70
+govt	60
+scty	80
+21	
+name	"Progressivism"
+stats	
+econ	60
+dipl	80
+govt	60
+scty	100
+22	
+name	"Anarcho-Mutualism"
+stats	
+econ	60
+dipl	50
+govt	100
+scty	70
+23	
+name	"National Totalitarianism"
+stats	
+econ	50
+dipl	20
+govt	0
+scty	50
+24	
+name	"Global Totalitarianism"
+stats	
+econ	50
+dipl	80
+govt	0
+scty	50
+25	
+name	"Technocracy"
+stats	
+econ	60
+dipl	60
+govt	20
+scty	70
+26	
+name	"Centrist"
+stats	
+econ	50
+dipl	50
+govt	50
+scty	50
+27	
+name	"Liberalism"
+stats	
+econ	50
+dipl	60
+govt	60
+scty	60
+28	
+name	"Religious Anarchism"
+stats	
+econ	50
+dipl	50
+govt	100
+scty	20
+29	
+name	"Right-Wing Populism"
+stats	
+econ	40
+dipl	30
+govt	30
+scty	30
+30	
+name	"Moderate Conservatism"
+stats	
+econ	40
+dipl	40
+govt	50
+scty	30
+31	
+name	"Reactionary"
+stats	
+econ	40
+dipl	40
+govt	40
+scty	10
+32	
+name	"Social Libertarianism"
+stats	
+econ	60
+dipl	70
+govt	80
+scty	70
+33	
+name	"Libertarianism"
+stats	
+econ	40
+dipl	60
+govt	80
+scty	60
+34	
+name	"Anarcho-Egoism"
+stats	
+econ	40
+dipl	50
+govt	100
+scty	50
+35	
+name	"Nazism"
+stats	
+econ	40
+dipl	0
+govt	0
+scty	5
+36	
+name	"Autocracy"
+stats	
+econ	50
+dipl	20
+govt	20
+scty	50
+37	
+name	"Fascism"
+stats	
+econ	40
+dipl	20
+govt	20
+scty	20
+38	
+name	"Capitalist Fascism"
+stats	
+econ	20
+dipl	20
+govt	20
+scty	20
+39	
+name	"Conservatism"
+stats	
+econ	30
+dipl	40
+govt	40
+scty	20
+40	
+name	"Neo-Liberalism"
+stats	
+econ	30
+dipl	30
+govt	50
+scty	60
+41	
+name	"Classical Liberalism"
+stats	
+econ	30
+dipl	60
+govt	60
+scty	80
+42	
+name	"Authoritarian Capitalism"
+stats	
+econ	20
+dipl	30
+govt	20
+scty	40
+43	
+name	"State Capitalism"
+stats	
+econ	20
+dipl	50
+govt	30
+scty	50
+44	
+name	"Neo-Conservatism"
+stats	
+econ	20
+dipl	20
+govt	40
+scty	20
+45	
+name	"Fundamentalism"
+stats	
+econ	20
+dipl	30
+govt	30
+scty	5
+46	
+name	"Libertarian Capitalism"
+stats	
+econ	20
+dipl	50
+govt	80
+scty	60
+47	
+name	"Market Anarchism"
+stats	
+econ	20
+dipl	50
+govt	100
+scty	50
+48	
+name	"Objectivism"
+stats	
+econ	10
+dipl	50
+govt	90
+scty	40
+49	
+name	"Totalitarian Capitalism"
+stats	
+econ	0
+dipl	30
+govt	0
+scty	50
+50	
+name	"Ultra-Capitalism"
+stats	
+econ	0
+dipl	40
+govt	50
+scty	50
+51	
+name	"Anarcho-Capitalism"
+stats	
+econ	0
+dipl	50
+govt	100
+scty	50
