@@ -1,0 +1,95 @@
+[
+	{
+		"id": "econ",
+		"name": "Economic",
+		"weights": [10, 15, 20, 10, 20, 15, 10],
+		"left": {
+			"name": "Equality",
+			"color": "#d32f2f",
+			"description": "Those with higher Equality scores believe people in lower classes deserve rights"
+		},
+		"right": {
+			"name": "Markets",
+			"color": "#00796b",
+			"description": "Those with higher Market scores believe in slavery"
+		},
+		"tiers": [
+			"Communist",
+			"Socialist",
+			"Social",
+			"Centrist",
+			"Sociopath",
+			"Psychopath",
+			"Social Darwinist"
+		]
+	},
+	{
+		"id": "dipl",
+		"name": "Diplomatic",
+		"left": {
+			"name": "Globe",
+			"color": "#0288d1",
+			"description": "Those with higher Globe scores aren't fascists and nazis. They support pacifism and don't want anyone to die because the leaders of countries disagree on something"
+		},
+		"right": {
+			"name": "Nation",
+			"color": "#f57c00",
+			"description": "Those with higher Nation scores believe in imperialism, nazism, fascism and support war"
+		},
+		"tiers": [
+			"Cosmopolitan",
+			"Internationalist",
+			"Peaceful",
+			"Balanced",
+			"War supporter",
+			"Fascist",
+			"Nazi"
+		]
+	},
+	{
+		"id": "govt",
+		"name": "Civil",
+		"left": {
+			"name": "Liberty",
+			"color": "#fbc02d",
+			"description": "Those with higher Liberty scores believe in free speech and privacy. They don't want people to be killed for doing anything wrong"
+		},
+		"right": {
+			"name": "Authority",
+			"color": "#303f9f",
+			"description": "Those with higher Authority scores believe in a totalitarian regime where people don't have privacy and get killed whenever they accidentally do something that the party didn't want them to do"
+		},
+		"tiers": [
+			"Anarchist",
+			"Libertarian",
+			"Liberal",
+			"Moderate",
+			"Statist",
+			"Authoritarian",
+			"Totalitarian"
+		]
+	},
+	{
+		"id": "scty",
+		"name": "Society",
+		"left": {
+			"name": "Progress",
+			"color": "#7b1fa2",
+			"description": "Those with higher Progress scores believe in minorities' rights"
+		},
+		"right": {
+			"name": "Tradition",
+			"color": "#689f38",
+			"description": "Those with higher Tradition scores believe in racism, homophobia, antisemitism, transphobia and more"
+		},
+		"tiers": [
+			"Revolutionary",
+			"Very Progressive",
+			"Progressive",
+			"Neutral",
+			"Transphobic",
+			"Racist",
+			"Antisemite"
+		]
+	}
+]
