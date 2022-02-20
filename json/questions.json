@@ -1,0 +1,56 @@
+0	
+question	"I don't spit on homeless people"
+effect	
+econ	10
+dipl	0
+govt	0
+scty	0
+1	
+question	"Slavery and feudalism were good things because people in lower classes shouldn't have rights"
+effect	
+econ	-10
+dipl	0
+govt	0
+scty	0
+2	
+question	"People in other countries are closer to animals than to us, and they all deserve to be the victim of genocide"
+effect	
+econ	0
+dipl	10
+govt	0
+scty	0
+3	
+question	"I am not a nazi"
+effect	
+econ	0
+dipl	-10
+govt	0
+scty	0
+4	
+question	"People shouldn't be watched 24/7. And people should have at least a little privacy"
+effect	
+econ	0
+dipl	0
+govt	10
+scty	0
+5	
+question	"IngSoc is a desirable end goal"
+effect	
+econ	0
+dipl	0
+govt	-10
+scty	0
+6	
+question	"Everyone with a different sexuality, religion, gender and race from me deserved to die"
+effect	
+econ	0
+dipl	0
+govt	0
+scty	10
+7	
+question	"Not everyone different from me deserves to die"
+effect	
+econ	0
+dipl	0
+govt	0
+scty	-10
