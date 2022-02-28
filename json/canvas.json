@@ -1,2 +1,4 @@
-fgColor:"#222222"
-bgColor:	"#EEEEEE"
+{
+	"fgColor": "#222222",
+	"bgColor": "#EEEEEE"
+}
