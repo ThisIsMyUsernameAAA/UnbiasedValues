@@ -5,12 +5,12 @@
 		"weights": [10, 15, 20, 10, 20, 15, 10],
 		"left": {
 			"name": "Equality",
-			"color": "#d32f2f",
+			"color": "#F44336",
 			"description": "Those with higher Equality scores believe people in lower classes deserve rights"
 		},
 		"right": {
 			"name": "Markets",
-			"color": "#00796b",
+			"color": "#00897B",
 			"description": "Those with higher Market scores believe in slavery"
 		},
 		"tiers": [
@@ -28,12 +28,12 @@
 		"name": "Diplomatic",
 		"left": {
 			"name": "Globe",
-			"color": "#0288d1",
+			"color": "#03A9F4",
 			"description": "Those with higher Globe scores aren't fascists and nazis. They support pacifism and don't want anyone to die because the leaders of countries disagree on something"
 		},
 		"right": {
 			"name": "Nation",
-			"color": "#f57c00",
+			"color": "#FF9800",
 			"description": "Those with higher Nation scores believe in imperialism, nazism, fascism and support war"
 		},
 		"tiers": [
@@ -51,7 +51,7 @@
 		"name": "Civil",
 		"left": {
 			"name": "Liberty",
-			"color": "#fbc02d",
+			"color": "#FFEB3B",
 			"description": "Those with higher Liberty scores believe in free speech and privacy. They don't want people to be killed for doing anything wrong"
 		},
 		"right": {
@@ -74,12 +74,12 @@
 		"name": "Society",
 		"left": {
 			"name": "Progress",
-			"color": "#7b1fa2",
+			"color": "#9C27B0",
 			"description": "Those with higher Progress scores believe in minorities' rights"
 		},
 		"right": {
 			"name": "Tradition",
-			"color": "#689f38",
+			"color": "#8BC34A",
 			"description": "Those with higher Tradition scores believe in racism, homophobia, antisemitism, transphobia and more"
 		},
 		"tiers": [
