@@ -18,7 +18,7 @@
 		}
 	},
 	{
-		"question": "People in other countries are closer to animals than to us, and they all deserve to be the victim of genocide",
+		"question": "I am not a Nazi",
 		"effect": {
 			"econ": 0,
 			"dipl": 10,
@@ -27,7 +27,7 @@
 		}
 	},
 	{
-		"question": "I am not a nazi",
+		"question": "People in other countries are closer to animals than to us, and they all deserve to be the victim of genocide",
 		"effect": {
 			"econ": 0,
 			"dipl": -10,
@@ -54,7 +54,7 @@
 		}
 	},
 	{
-		"question": "Everyone with a different sexuality, religion, gender and race from me deserved to die",
+		"question": "Everyone with a different sexuality, religion, gender and race from me deserve to die",
 		"effect": {
 			"econ": 0,
 			"dipl": 0,
