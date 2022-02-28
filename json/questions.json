@@ -54,7 +54,7 @@
 		}
 	},
 	{
-		"question": "Everyone with a different sexuality, religion, gender and race from me deserve to die",
+		"question": "Not everyone different from me deserves to die",
 		"effect": {
 			"econ": 0,
 			"dipl": 0,
@@ -63,7 +63,7 @@
 		}
 	},
 	{
-		"question": "Not everyone different from me deserves to die",
+		"question": "Everyone with a different sexuality, religion, gender and race from me deserves to get tortured to death",
 		"effect": {
 			"econ": 0,
 			"dipl": 0,
