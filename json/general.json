@@ -1,8 +1,10 @@
-title	"UnbiasedValues"
-version	"1.0.0"
-github	"https://github.com/ThisIsMyUsernameAAA/UnbiasedValues"
-link	"vizdun.github.io"
-description	"UnbiasedValues is good test and stuff"
-valQuestion	"What are the values? yes"
-valDescription	"The first political test that is objectively unbiased"
-mainFont	"Montserrat"
+{
+	"title": "UnbiasedValues",
+	"version": "1.0.0",
+	"github": "https://github.com/ThisIsMyUsernameAAA/UnbiasedValues",
+	"link": "ThisIsMyUsernameAAA.github.io/UnbiasedValues",
+	"description": "UnbiasedValues is good test and stuff",
+	"valQuestion": "What are the values? yes",
+	"valDescription": "The first political test that is objectively unbiased",
+	"mainFont": "Montserrat"
+}
