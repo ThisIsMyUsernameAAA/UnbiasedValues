@@ -362,109 +362,109 @@
 	{
 		"name": "Neo-Liberalism",
 		"stats": {
-			"econ": 30,
-			"dipl": 30,
-			"govt": 50,
-			"scty": 60
+			"econ": 24,
+			"dipl": 24,
+			"govt": 40,
+			"scty": 48
 		}
 	},
 	{
 		"name": "Classical Liberalism",
 		"stats": {
-			"econ": 30,
-			"dipl": 60,
-			"govt": 60,
-			"scty": 80
+			"econ": 24,
+			"dipl": 48,
+			"govt": 48,
+			"scty": 72
 		}
 	},
 	{
 		"name": "Authoritarian Capitalism",
 		"stats": {
-			"econ": 20,
-			"dipl": 30,
-			"govt": 20,
-			"scty": 40
+			"econ": 16,
+			"dipl": 24,
+			"govt": 16,
+			"scty": 32
 		}
 	},
 	{
 		"name": "State Capitalism",
 		"stats": {
-			"econ": 20,
-			"dipl": 50,
-			"govt": 30,
-			"scty": 50
+			"econ": 16,
+			"dipl": 40,
+			"govt": 24,
+			"scty": 40
 		}
 	},
 	{
 		"name": "Neo-Conservatism",
 		"stats": {
-			"econ": 20,
-			"dipl": 20,
-			"govt": 40,
-			"scty": 20
+			"econ": 16,
+			"dipl": 16,
+			"govt": 32,
+			"scty": 16
 		}
 	},
 	{
 		"name": "Fundamentalism",
 		"stats": {
-			"econ": 20,
-			"dipl": 30,
-			"govt": 30,
-			"scty": 5
+			"econ": 16,
+			"dipl": 24,
+			"govt": 24,
+			"scty": 4
 		}
 	},
 	{
 		"name": "Libertarian Capitalism",
 		"stats": {
-			"econ": 20,
-			"dipl": 50,
-			"govt": 80,
-			"scty": 60
+			"econ": 16,
+			"dipl": 40,
+			"govt": 72,
+			"scty": 48
 		}
 	},
 	{
 		"name": "Market Anarchism",
 		"stats": {
-			"econ": 20,
-			"dipl": 50,
-			"govt": 100,
-			"scty": 50
+			"econ": 16,
+			"dipl": 40,
+			"govt": 80,
+			"scty": 40
 		}
 	},
 	{
 		"name": "Objectivism",
 		"stats": {
-			"econ": 10,
-			"dipl": 50,
-			"govt": 90,
-			"scty": 40
+			"econ": 8,
+			"dipl": 40,
+			"govt": 72,
+			"scty": 32
 		}
 	},
 	{
 		"name": "Totalitarian Capitalism",
 		"stats": {
 			"econ": 0,
-			"dipl": 30,
+			"dipl": 24,
 			"govt": 0,
-			"scty": 50
+			"scty": 40
 		}
 	},
 	{
 		"name": "Ultra-Capitalism",
 		"stats": {
 			"econ": 0,
-			"dipl": 40,
-			"govt": 50,
-			"scty": 50
+			"dipl": 32,
+			"govt": 40,
+			"scty": 40
 		}
 	},
 	{
 		"name": "Anarcho-Capitalism",
 		"stats": {
 			"econ": 0,
-			"dipl": 50,
-			"govt": 100,
-			"scty": 50
+			"dipl": 40,
+			"govt": 80,
+			"scty": 40
 		}
 	}
 ]
