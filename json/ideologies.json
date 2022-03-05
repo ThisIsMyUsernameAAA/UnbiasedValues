@@ -11,28 +11,28 @@
 	{
 		"name": "Libertarian Communism",
 		"stats": {
-			"econ": 100,
-			"dipl": 70,
-			"govt": 80,
-			"scty": 80
+			"econ": 80,
+			"dipl": 56,
+			"govt": 64,
+			"scty": 64
 		}
 	},
 	{
 		"name": "Trotskyism",
 		"stats": {
-			"econ": 100,
-			"dipl": 100,
-			"govt": 60,
-			"scty": 80
+			"econ": 80,
+			"dipl": 80,
+			"govt": 48,
+			"scty": 64
 		}
 	},
 	{
 		"name": "Marxism",
 		"stats": {
-			"econ": 100,
-			"dipl": 70,
-			"govt": 40,
-			"scty": 80
+			"econ": 80,
+			"dipl": 56,
+			"govt": 32,
+			"scty": 64
 		}
 	},
 	{
