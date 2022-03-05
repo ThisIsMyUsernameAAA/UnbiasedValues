@@ -2,10 +2,10 @@
 	{
 		"name": "Anarcho-Communism",
 		"stats": {
-			"econ": 100,
-			"dipl": 50,
-			"govt": 100,
-			"scty": 90
+			"econ": 80,
+			"dipl": 40,
+			"govt": 80,
+			"scty": 72
 		}
 	},
 	{
